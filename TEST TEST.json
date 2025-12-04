@@ -1,0 +1,9 @@
+[
+  {
+    "cardNumber": "1234 5678 9123 4567",
+    "cardCvv": "123",
+    "cardMonth": "01",
+    "cardYear": "2026",
+    "cardHolder": "TEST TEST"
+  }
+]
